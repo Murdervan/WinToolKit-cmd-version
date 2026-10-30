@@ -44,7 +44,7 @@ The launcher is designed to make getting started simple: download `WinToolKit.cm
 ## ⚙️ Requirements
 
 - Windows 10 or Windows 11
-- Internet connection
+- <b>Internet connection</b>
 - Permission to run PowerShell scripts
 - Administrator approval for elevated operations
 
