@@ -5,7 +5,7 @@
   [![Repositories](https://img.shields.io/badge/Repositories-Murdervan-blue?style=for-the-badge&logo=github)](https://github.com/Murdervan?tab=repositories)
 </div>
 
-# WinToolKit CMD Version
+# WinToolKit
 
 ### Your Portable Windows Toolkit — CMD Launcher
 **Made by Murdervan**
