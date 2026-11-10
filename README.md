@@ -1,6 +1,6 @@
 <div align="right">
   
-  ### Check out my other 
+  <b> Check out my other </b>
   
   [![Repositories](https://img.shields.io/badge/Repositories-Murdervan-blue?style=for-the-badge&logo=github)](https://github.com/Murdervan?tab=repositories)
 </div>
