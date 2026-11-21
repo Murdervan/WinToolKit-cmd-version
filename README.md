@@ -19,10 +19,10 @@ Whether you're setting up a new PC, installing your favourite applications, chec
 No complicated interface. No unnecessary menus. Just practical tools in one place.
 
 
-![Platform](https://img.shields.io/badge/Windows-Platform-0078D4?style=flat&logo=windows&logoColor=0078D4)
-![Launcher](https://img.shields.io/badge/CMD-Launcher-555555?style=flat&logo=windows-terminal&logoColor=white)
-![Version](https://img.shields.io/badge/v1.2.0-Version-2ea44f?style=flat)
-![Portable](https://img.shields.io/badge/USB-Portable-8957e5?style=flat&logo=usb&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue)
+![Shell](https://img.shields.io/badge/Shell-PowerShell%205.1-blue)
+![Version](https://img.shields.io/badge/Version-v1.2.0-green)
+![USB Friendly](https://img.shields.io/badge/USB-Friendly-brightgreen)
 
 ---
 
