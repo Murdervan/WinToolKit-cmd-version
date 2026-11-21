@@ -1,7 +1,7 @@
 @echo off
 REM ==========================================
 REM  WinToolKit CMD Version by Murdervan
-REM  Version: 1.1.0
+REM  Version: 1.2.0
 REM  Windows 10 / Windows 11
 REM  CMD Launcher - PowerShell 5.1 compatible
 REM ==========================================
