@@ -20,9 +20,11 @@ No complicated interface. No unnecessary menus. Just practical tools in one plac
 
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue)
-![Shell](https://img.shields.io/badge/Shell-PowerShell%205.1-blue)
 ![Version](https://img.shields.io/badge/Version-v1.2.0-green)
+![Launcher](https://img.shields.io/badge/Launcher-CMD-4D4D4D?logo=windows-terminal&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-PowerShell%205.1-blue)
 ![USB Friendly](https://img.shields.io/badge/USB-Friendly-brightgreen)
+
 
 ---
 
